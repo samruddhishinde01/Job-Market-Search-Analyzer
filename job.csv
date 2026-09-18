@@ -1,0 +1,402 @@
+﻿job_id,job_title,company,location,experience_required,employment_type,salary_min,salary_max,skills,education,industry,posted_date,remote,job_description
+JOB0001,Data Analyst,TCS,Mumbai,0-1 years,Full-time,350000,520000,Python;SQL;Excel;Power BI,B.Tech,IT Services,03-01-2026,Hybrid,Analyze business data and prepare actionable reports.
+JOB0002,Software Engineer,Infosys,Pune,1-3 years,Full-time,520000,850000,Java;Python;Git;APIs,B.E.,IT Services,04-01-2026,Yes,Develop and maintain scalable software applications.
+JOB0003,Python Developer,Wipro,Bangalore,1-3 years,Full-time,500000,820000,Python;Django;Flask;SQL,BCA,IT Services,05-01-2026,Hybrid,Build backend applications and REST APIs.
+JOB0004,Data Scientist,Accenture,Hyderabad,3-5 years,Full-time,850000,1350000,Python;Machine Learning;SQL;Pandas,M.Tech,Consulting,06-01-2026,Yes,Build predictive models and generate data-driven insights.
+JOB0005,Java Developer,Capgemini,Chennai,1-3 years,Full-time,480000,800000,Java;Spring Boot;SQL;REST API,B.Tech,IT Services,07-01-2026,No,Develop enterprise Java applications.
+JOB0006,Frontend Developer,Deloitte,Pune,1-3 years,Full-time,500000,850000,HTML;CSS;JavaScript;React,B.E.,Consulting,08-01-2026,Hybrid,Develop responsive web interfaces and user experiences.
+JOB0007,Backend Developer,HCLTech,Noida,3-5 years,Full-time,750000,1250000,Node.js;Python;APIs;SQL,B.Tech,IT Services,09-01-2026,Yes,Develop secure and scalable backend services.
+JOB0008,Full Stack Developer,Cognizant,Bangalore,3-5 years,Full-time,800000,1300000,React;Node.js;MongoDB;JavaScript,B.Tech,E-Commerce,10-01-2026,Hybrid,Build full-stack web applications.
+JOB0009,Machine Learning Engineer,IBM,Bangalore,3-5 years,Full-time,900000,1500000,Python;TensorFlow;ML;Docker,M.Tech,IT Services,11-01-2026,Yes,Develop and deploy machine learning models.
+JOB0010,Cloud Engineer,Microsoft,Hyderabad,3-5 years,Full-time,1000000,1700000,AWS;Azure;Docker;Kubernetes,B.Tech,IT Services,12-01-2026,Yes,Manage cloud infrastructure and deployment pipelines.
+JOB0011,DevOps Engineer,Amazon,Bangalore,5-8 years,Full-time,1300000,2000000,Linux;Docker;Kubernetes;Jenkins,B.Tech,E-Commerce,13-01-2026,Hybrid,Automate deployment and manage cloud infrastructure.
+JOB0012,Business Analyst,Tech Mahindra,Mumbai,1-3 years,Full-time,550000,900000,Excel;SQL;Power BI;Business Analysis,MBA,Banking,14-01-2026,No,Analyze business requirements and prepare insights.
+JOB0013,Product Manager,Oracle,Bangalore,5-8 years,Full-time,1400000,2200000,Product Strategy;Agile;Analytics,MBA,IT Services,15-01-2026,Hybrid,Manage product strategy and cross-functional delivery.
+JOB0014,Project Manager,LTIMindtree,Pune,5-8 years,Full-time,1200000,1900000,Agile;Scrum;Jira;Leadership,MBA,IT Services,16-01-2026,Yes,Lead projects and coordinate technical teams.
+JOB0015,UI UX Designer,Persistent Systems,Mumbai,1-3 years,Full-time,500000,850000,Figma;UI Design;UX Research,B.Des,E-Commerce,17-01-2026,Hybrid,Design intuitive digital products and interfaces.
+JOB0016,Cyber Security Analyst,Mphasis,Hyderabad,1-3 years,Full-time,600000,950000,Cybersecurity;SIEM;Networking;Linux,B.Tech,IT Services,18-01-2026,Yes,Monitor security events and investigate threats.
+JOB0017,Database Administrator,TCS,Chennai,3-5 years,Full-time,700000,1150000,SQL;MySQL;Oracle;Database,B.Tech,Banking,19-01-2026,No,Maintain databases and optimize database performance.
+JOB0018,QA Engineer,Infosys,Pune,1-3 years,Full-time,450000,750000,Selenium;Testing;Java;Automation,B.E.,IT Services,20-01-2026,Hybrid,Perform software testing and automation.
+JOB0019,AI Engineer,Google,Bangalore,3-5 years,Full-time,1100000,1900000,Python;AI;Deep Learning;NLP,M.Tech,IT Services,21-01-2026,Yes,Develop AI models and intelligent applications.
+JOB0020,Marketing Analyst,Flipkart,Delhi,1-3 years,Full-time,500000,800000,Excel;Google Analytics;SQL;Marketing,MBA,E-Commerce,22-01-2026,Hybrid,Analyze marketing campaigns and customer behavior.
+JOB0021,Data Analyst,Wipro,Pune,1-3 years,Full-time,480000,780000,Python;SQL;Excel;Power BI,B.Sc,FinTech,23-01-2026,Yes,Analyze datasets and create business dashboards.
+JOB0022,Software Engineer,Accenture,Mumbai,1-3 years,Full-time,550000,900000,Java;Python;Git;APIs,B.Tech,Consulting,24-01-2026,Hybrid,Develop software solutions for enterprise clients.
+JOB0023,Python Developer,TCS,Hyderabad,0-1 years,Full-time,380000,550000,Python;Django;Flask;SQL,MCA,IT Services,25-01-2026,No,Develop Python applications and APIs.
+JOB0024,Data Scientist,Amazon,Bangalore,3-5 years,Full-time,950000,1550000,Python;Machine Learning;SQL;Pandas,M.Tech,E-Commerce,26-01-2026,Yes,Develop statistical and machine learning models.
+JOB0025,Java Developer,Infosys,Chennai,3-5 years,Contract,700000,1150000,Java;Spring Boot;SQL;REST API,B.Tech,Telecommunications,27-01-2026,Hybrid,Build and maintain Java-based services.
+JOB0026,Frontend Developer,Wipro,Mumbai,1-3 years,Full-time,520000,850000,HTML;CSS;JavaScript;React,BCA,E-Commerce,28-01-2026,Yes,Create responsive frontend applications.
+JOB0027,Backend Developer,Cognizant,Pune,1-3 years,Full-time,600000,950000,Node.js;Python;APIs;SQL,B.Tech,IT Services,29-01-2026,No,Develop backend APIs and database integrations.
+JOB0028,Full Stack Developer,HCLTech,Hyderabad,3-5 years,Full-time,850000,1400000,React;Node.js;MongoDB;JavaScript,B.E.,IT Services,30-01-2026,Hybrid,Develop complete web applications.
+JOB0029,Machine Learning Engineer,Microsoft,Bangalore,5-8 years,Full-time,1500000,2300000,Python;TensorFlow;ML;Docker,M.Tech,IT Services,31-01-2026,Yes,Build scalable machine learning systems.
+JOB0030,Cloud Engineer,Oracle,Hyderabad,3-5 years,Full-time,950000,1600000,AWS;Azure;Docker;Kubernetes,B.Tech,IT Services,01-02-2026,Hybrid,Design and manage cloud infrastructure.
+JOB0031,DevOps Engineer,IBM,Pune,3-5 years,Full-time,950000,1550000,Linux;Docker;Kubernetes;Jenkins,B.Tech,IT Services,02-02-2026,Yes,Improve CI/CD and infrastructure automation.
+JOB0032,Business Analyst,Deloitte,Mumbai,1-3 years,Full-time,600000,950000,Excel;SQL;Power BI;Business Analysis,MBA,Consulting,03-02-2026,Hybrid,Translate business needs into analytical solutions.
+JOB0033,Product Manager,Amazon,Bangalore,5-8 years,Full-time,1500000,2400000,Product Strategy;Agile;Analytics,MBA,E-Commerce,04-02-2026,Yes,Drive product roadmap and business outcomes.
+JOB0034,Project Manager,TCS,Chennai,5-8 years,Full-time,1300000,2000000,Agile;Scrum;Jira;Leadership,MBA,IT Services,05-02-2026,No,Manage project delivery and stakeholder communication.
+JOB0035,UI UX Designer,Flipkart,Bangalore,1-3 years,Full-time,550000,900000,Figma;UI Design;UX Research,B.Des,E-Commerce,06-02-2026,Hybrid,Design user-friendly digital experiences.
+JOB0036,Cyber Security Analyst,Infosys,Hyderabad,3-5 years,Full-time,750000,1200000,Cybersecurity;SIEM;Networking;Linux,B.Tech,IT Services,07-02-2026,Yes,Monitor networks and respond to security incidents.
+JOB0037,Database Administrator,Oracle,Pune,5-8 years,Full-time,1000000,1700000,SQL;MySQL;Oracle;Database,B.Tech,Banking,08-02-2026,No,Administer enterprise database systems.
+JOB0038,QA Engineer,Capgemini,Mumbai,1-3 years,Full-time,500000,800000,Selenium;Testing;Java;Automation,B.E.,IT Services,09-02-2026,Hybrid,Create automated tests and identify software defects.
+JOB0039,AI Engineer,Google,Bangalore,3-5 years,Full-time,1200000,2000000,Python;AI;Deep Learning;NLP,M.Tech,IT Services,10-02-2026,Yes,Build AI-powered applications.
+JOB0040,Marketing Analyst,Reliance Industries,Mumbai,1-3 years,Full-time,550000,850000,Excel;Google Analytics;SQL;Marketing,MBA,Retail,11-02-2026,No,Analyze marketing performance and customer trends.
+JOB0041,Data Analyst,Accenture,Delhi,0-1 years,Internship,300000,450000,Python;SQL;Excel;Power BI,BCA,FinTech,12-02-2026,Yes,Support data analysis and dashboard development.
+JOB0042,Software Engineer,Microsoft,Hyderabad,3-5 years,Full-time,900000,1500000,Java;Python;Git;APIs,B.Tech,IT Services,13-02-2026,Hybrid,Develop scalable software products.
+JOB0043,Python Developer,Infosys,Pune,1-3 years,Full-time,520000,850000,Python;Django;Flask;SQL,MCA,Healthcare,14-02-2026,No,Develop backend systems using Python.
+JOB0044,Data Scientist,Deloitte,Mumbai,5-8 years,Full-time,1300000,2100000,Python;Machine Learning;SQL;Pandas,M.Tech,Consulting,15-02-2026,Yes,Develop advanced analytics and predictive models.
+JOB0045,Java Developer,HCLTech,Noida,1-3 years,Full-time,550000,900000,Java;Spring Boot;SQL;REST API,B.Tech,Telecommunications,16-02-2026,Hybrid,Build enterprise applications using Java.
+JOB0046,Frontend Developer,Flipkart,Bangalore,1-3 years,Full-time,600000,950000,HTML;CSS;JavaScript;React,B.E.,E-Commerce,17-02-2026,Yes,Develop modern web interfaces.
+JOB0047,Backend Developer,IBM,Pune,3-5 years,Contract,800000,1300000,Node.js;Python;APIs;SQL,B.Tech,IT Services,18-02-2026,No,Develop scalable backend systems.
+JOB0048,Full Stack Developer,Amazon,Hyderabad,5-8 years,Full-time,1300000,2100000,React;Node.js;MongoDB;JavaScript,B.Tech,E-Commerce,19-02-2026,Hybrid,Design and develop full-stack applications.
+JOB0049,Machine Learning Engineer,Google,Bangalore,3-5 years,Full-time,1100000,1850000,Python;TensorFlow;ML;Docker,M.Tech,IT Services,20-02-2026,Yes,Train and deploy machine learning models.
+JOB0050,Cloud Engineer,Microsoft,Pune,1-3 years,Full-time,750000,1200000,AWS;Azure;Docker;Kubernetes,B.Tech,IT Services,21-02-2026,Hybrid,Support cloud infrastructure and automation.
+JOB0051,DevOps Engineer,TCS,Mumbai,5-8 years,Full-time,1250000,1950000,Linux;Docker;Kubernetes;Jenkins,B.Tech,IT Services,22-02-2026,Yes,Manage deployment pipelines and infrastructure.
+JOB0052,Business Analyst,Infosys,Bangalore,3-5 years,Full-time,700000,1100000,Excel;SQL;Power BI;Business Analysis,MBA,Banking,23-02-2026,Hybrid,Analyze processes and recommend improvements.
+JOB0053,Product Manager,Flipkart,Bangalore,3-5 years,Full-time,1200000,1900000,Product Strategy;Agile;Analytics,MBA,E-Commerce,24-02-2026,Yes,Define product requirements and roadmap.
+JOB0054,Project Manager,Accenture,Pune,5-8 years,Full-time,1350000,2050000,Agile;Scrum;Jira;Leadership,MBA,Consulting,25-02-2026,No,Lead cross-functional technology projects.
+JOB0055,UI UX Designer,Microsoft,Hyderabad,1-3 years,Full-time,650000,1000000,Figma;UI Design;UX Research,B.Des,IT Services,26-02-2026,Hybrid,Design interfaces based on user research.
+JOB0056,Cyber Security Analyst,IBM,Bangalore,3-5 years,Full-time,800000,1250000,Cybersecurity;SIEM;Networking;Linux,B.Tech,IT Services,27-02-2026,Yes,Analyze security events and protect systems.
+JOB0057,Database Administrator,Oracle,Chennai,3-5 years,Full-time,850000,1350000,SQL;MySQL;Oracle;Database,B.Tech,Banking,28-02-2026,No,Maintain database availability and performance.
+JOB0058,QA Engineer,Wipro,Pune,0-1 years,Full-time,400000,600000,Selenium;Testing;Java;Automation,B.E.,IT Services,01-03-2026,Hybrid,Test applications and automate regression testing.
+JOB0059,AI Engineer,Google,Bangalore,5-8 years,Full-time,1600000,2500000,Python;AI;Deep Learning;NLP,M.Tech,IT Services,02-03-2026,Yes,Research and develop artificial intelligence solutions.
+JOB0060,Marketing Analyst,Amazon,Mumbai,1-3 years,Full-time,600000,900000,Excel;Google Analytics;SQL;Marketing,MBA,E-Commerce,03-03-2026,Hybrid,Analyze customer and campaign data.
+JOB0061,Data Analyst,TCS,Pune,1-3 years,Full-time,500000,820000,Python;SQL;Excel;Power BI,B.Sc,Healthcare,04-03-2026,No,Prepare reports and business intelligence dashboards.
+JOB0062,Software Engineer,Capgemini,Bangalore,3-5 years,Full-time,750000,1200000,Java;Python;Git;APIs,B.Tech,IT Services,05-03-2026,Yes,Develop and test enterprise software.
+JOB0063,Python Developer,Tech Mahindra,Hyderabad,1-3 years,Full-time,550000,880000,Python;Django;Flask;SQL,MCA,FinTech,06-03-2026,Hybrid,Develop Python services and database applications.
+JOB0064,Data Scientist,IBM,Pune,3-5 years,Full-time,900000,1450000,Python;Machine Learning;SQL;Pandas,M.Tech,Healthcare,07-03-2026,Yes,Analyze complex datasets and develop models.
+JOB0065,Java Developer,Cognizant,Chennai,3-5 years,Full-time,700000,1200000,Java;Spring Boot;SQL;REST API,B.Tech,IT Services,08-03-2026,No,Develop reliable Java applications.
+JOB0066,Frontend Developer,Infosys,Mumbai,1-3 years,Full-time,520000,850000,HTML;CSS;JavaScript;React,BCA,E-Commerce,09-03-2026,Hybrid,Build responsive frontend components.
+JOB0067,Backend Developer,Accenture,Bangalore,3-5 years,Full-time,800000,1300000,Node.js;Python;APIs;SQL,B.Tech,FinTech,10-03-2026,Yes,Develop APIs and backend services.
+JOB0068,Full Stack Developer,Persistent Systems,Pune,3-5 years,Full-time,850000,1350000,React;Node.js;MongoDB;JavaScript,B.E.,IT Services,11-03-2026,Hybrid,Develop and maintain full-stack products.
+JOB0069,Machine Learning Engineer,Microsoft,Hyderabad,5-8 years,Full-time,1400000,2250000,Python;TensorFlow;ML;Docker,M.Tech,IT Services,12-03-2026,Yes,Build production machine learning pipelines.
+JOB0070,Cloud Engineer,Amazon,Bangalore,3-5 years,Full-time,1000000,1650000,AWS;Azure;Docker;Kubernetes,B.Tech,E-Commerce,13-03-2026,Hybrid,Build and manage cloud solutions.
+JOB0071,DevOps Engineer,Google,Bangalore,5-8 years,Full-time,1500000,2400000,Linux;Docker;Kubernetes;Jenkins,B.Tech,IT Services,14-03-2026,Yes,Automate infrastructure and deployment workflows.
+JOB0072,Business Analyst,Deloitte,Mumbai,1-3 years,Full-time,580000,920000,Excel;SQL;Power BI;Business Analysis,MBA,Consulting,15-03-2026,Hybrid,Analyze business processes and requirements.
+JOB0073,Product Manager,Amazon,Delhi,5-8 years,Full-time,1450000,2300000,Product Strategy;Agile;Analytics,MBA,E-Commerce,16-03-2026,Yes,Lead product planning and execution.
+JOB0074,Project Manager,TCS,Pune,3-5 years,Full-time,1000000,1650000,Agile;Scrum;Jira;Leadership,MBA,IT Services,17-03-2026,No,Coordinate project delivery and stakeholders.
+JOB0075,UI UX Designer,Flipkart,Bangalore,1-3 years,Full-time,550000,900000,Figma;UI Design;UX Research,B.Des,E-Commerce,18-03-2026,Hybrid,Create user-centered interface designs.
+JOB0076,Cyber Security Analyst,HCLTech,Noida,1-3 years,Full-time,650000,1000000,Cybersecurity;SIEM;Networking;Linux,B.Tech,IT Services,19-03-2026,Yes,Monitor security threats and incidents.
+JOB0077,Database Administrator,Oracle,Hyderabad,5-8 years,Full-time,1100000,1750000,SQL;MySQL;Oracle;Database,B.Tech,Banking,20-03-2026,No,Manage database systems and performance.
+JOB0078,QA Engineer,Cognizant,Chennai,1-3 years,Full-time,500000,820000,Selenium;Testing;Java;Automation,B.E.,IT Services,21-03-2026,Hybrid,Execute automated and manual testing.
+JOB0079,AI Engineer,Microsoft,Bangalore,3-5 years,Full-time,1150000,1950000,Python;AI;Deep Learning;NLP,M.Tech,IT Services,22-03-2026,Yes,Develop intelligent software solutions.
+JOB0080,Marketing Analyst,Reliance Industries,Mumbai,3-5 years,Full-time,700000,1100000,Excel;Google Analytics;SQL;Marketing,MBA,Retail,23-03-2026,No,Analyze marketing metrics and customer segments.
+JOB0081,Data Analyst,Infosys,Bangalore,0-1 years,Full-time,350000,550000,Python;SQL;Excel;Power BI,B.Tech,IT Services,24-03-2026,Hybrid,Analyze operational data and prepare dashboards.
+JOB0082,Software Engineer,Wipro,Hyderabad,1-3 years,Full-time,520000,850000,Java;Python;Git;APIs,B.E.,IT Services,25-03-2026,Yes,Develop applications and integrate APIs.
+JOB0083,Python Developer,TCS,Pune,3-5 years,Full-time,750000,1200000,Python;Django;Flask;SQL,MCA,FinTech,26-03-2026,Hybrid,Create scalable Python backend systems.
+JOB0084,Data Scientist,Accenture,Bangalore,5-8 years,Full-time,1300000,2150000,Python;Machine Learning;SQL;Pandas,M.Tech,Consulting,27-03-2026,Yes,Build advanced predictive analytics solutions.
+JOB0085,Java Developer,Infosys,Mumbai,1-3 years,Full-time,500000,820000,Java;Spring Boot;SQL;REST API,B.Tech,Banking,28-03-2026,No,Develop Java services for enterprise systems.
+JOB0086,Frontend Developer,Amazon,Bangalore,3-5 years,Full-time,800000,1250000,HTML;CSS;JavaScript;React,B.E.,E-Commerce,29-03-2026,Hybrid,Build high-performance web interfaces.
+JOB0087,Backend Developer,Microsoft,Hyderabad,5-8 years,Full-time,1200000,1900000,Node.js;Python;APIs;SQL,B.Tech,IT Services,30-03-2026,Yes,Design scalable backend architecture.
+JOB0088,Full Stack Developer,Accenture,Pune,1-3 years,Full-time,650000,1050000,React;Node.js;MongoDB;JavaScript,B.Tech,Consulting,31-03-2026,Hybrid,Develop frontend and backend features.
+JOB0089,Machine Learning Engineer,IBM,Bangalore,3-5 years,Full-time,1050000,1700000,Python;TensorFlow;ML;Docker,M.Tech,Healthcare,01-04-2026,Yes,Develop and deploy ML models.
+JOB0090,Cloud Engineer,Google,Hyderabad,5-8 years,Full-time,1400000,2200000,AWS;Azure;Docker;Kubernetes,B.Tech,IT Services,02-04-2026,Hybrid,Architect cloud infrastructure and services.
+JOB0091,DevOps Engineer,Amazon,Bangalore,3-5 years,Full-time,1000000,1600000,Linux;Docker;Kubernetes;Jenkins,B.Tech,E-Commerce,03-04-2026,Yes,Build reliable CI/CD pipelines.
+JOB0092,Business Analyst,Capgemini,Mumbai,1-3 years,Full-time,550000,900000,Excel;SQL;Power BI;Business Analysis,MBA,Consulting,04-04-2026,Hybrid,Gather requirements and analyze business data.
+JOB0093,Product Manager,Microsoft,Hyderabad,5-8 years,Full-time,1500000,2350000,Product Strategy;Agile;Analytics,MBA,IT Services,05-04-2026,Yes,Manage product roadmap and stakeholder priorities.
+JOB0094,Project Manager,Infosys,Pune,5-8 years,Full-time,1250000,1950000,Agile;Scrum;Jira;Leadership,MBA,IT Services,06-04-2026,No,"Manage timelines, resources and project delivery."
+JOB0095,UI UX Designer,Google,Bangalore,3-5 years,Full-time,800000,1250000,Figma;UI Design;UX Research,B.Des,IT Services,07-04-2026,Hybrid,Design digital products using user research.
+JOB0096,Cyber Security Analyst,IBM,Mumbai,3-5 years,Full-time,750000,1200000,Cybersecurity;SIEM;Networking;Linux,B.Tech,Banking,08-04-2026,Yes,Investigate security alerts and vulnerabilities.
+JOB0097,Database Administrator,Oracle,Chennai,1-3 years,Full-time,600000,950000,SQL;MySQL;Oracle;Database,B.Tech,Banking,09-04-2026,No,Support database administration and maintenance.
+JOB0098,QA Engineer,TCS,Pune,3-5 years,Full-time,650000,1050000,Selenium;Testing;Java;Automation,B.E.,IT Services,10-04-2026,Hybrid,Develop automation frameworks and test software.
+JOB0099,AI Engineer,Google,Bangalore,5-8 years,Full-time,1550000,2450000,Python;AI;Deep Learning;NLP,M.Tech,IT Services,11-04-2026,Yes,Develop advanced AI and deep learning solutions.
+JOB0100,Marketing Analyst,Flipkart,Mumbai,1-3 years,Full-time,550000,900000,Excel;Google Analytics;SQL;Marketing,MBA,E-Commerce,12-04-2026,Hybrid,Analyze marketing performance and customer behavior.
+JOB0101,Data Analyst,Capgemini,Pune,1-3 years,Full-time,480000,780000,Python;SQL;Excel;Power BI,B.Sc,IT Services,13-04-2026,Yes,Analyze datasets and create business dashboards.
+JOB0102,Software Engineer,TCS,Bangalore,3-5 years,Full-time,750000,1250000,Java;Python;Git;APIs,B.Tech,IT Services,14-04-2026,Hybrid,Develop scalable enterprise software.
+JOB0103,Python Developer,Infosys,Hyderabad,1-3 years,Full-time,500000,820000,Python;Django;Flask;SQL,MCA,FinTech,15-04-2026,Yes,Build Python applications and REST APIs.
+JOB0104,Data Scientist,Microsoft,Bangalore,3-5 years,Full-time,1000000,1650000,Python;Machine Learning;SQL;Pandas,M.Tech,IT Services,16-04-2026,Hybrid,Develop machine learning models and analytics.
+JOB0105,Java Developer,Wipro,Chennai,1-3 years,Full-time,520000,850000,Java;Spring Boot;SQL;REST API,B.E.,IT Services,17-04-2026,No,Develop enterprise Java applications.
+JOB0106,Frontend Developer,Accenture,Mumbai,1-3 years,Full-time,550000,900000,HTML;CSS;JavaScript;React,BCA,E-Commerce,18-04-2026,Hybrid,Develop responsive web interfaces.
+JOB0107,Backend Developer,IBM,Pune,3-5 years,Full-time,780000,1280000,Node.js;Python;APIs;SQL,B.Tech,IT Services,19-04-2026,Yes,Develop scalable backend services.
+JOB0108,Full Stack Developer,Amazon,Bangalore,3-5 years,Full-time,850000,1400000,React;Node.js;MongoDB;JavaScript,B.Tech,E-Commerce,20-04-2026,Hybrid,Build complete web applications.
+JOB0109,Machine Learning Engineer,Google,Hyderabad,5-8 years,Full-time,1450000,2250000,Python;TensorFlow;ML;Docker,M.Tech,IT Services,21-04-2026,Yes,Develop and deploy machine learning systems.
+JOB0110,Cloud Engineer,Oracle,Pune,3-5 years,Full-time,950000,1550000,AWS;Azure;Docker;Kubernetes,B.Tech,IT Services,22-04-2026,Hybrid,Manage cloud infrastructure and services.
+JOB0111,DevOps Engineer,HCLTech,Bangalore,3-5 years,Full-time,950000,1550000,Linux;Docker;Kubernetes;Jenkins,B.Tech,IT Services,23-04-2026,Yes,Automate deployment and infrastructure processes.
+JOB0112,Business Analyst,Deloitte,Mumbai,1-3 years,Full-time,580000,920000,Excel;SQL;Power BI;Business Analysis,MBA,Consulting,24-04-2026,Hybrid,Analyze business requirements and processes.
+JOB0113,Product Manager,Amazon,Bangalore,5-8 years,Full-time,1450000,2300000,Product Strategy;Agile;Analytics,MBA,E-Commerce,25-04-2026,Yes,Manage product strategy and roadmap.
+JOB0114,Project Manager,TCS,Pune,5-8 years,Full-time,1250000,1950000,Agile;Scrum;Jira;Leadership,MBA,IT Services,26-04-2026,No,Lead project teams and delivery.
+JOB0115,UI UX Designer,Infosys,Hyderabad,1-3 years,Full-time,550000,900000,Figma;UI Design;UX Research,B.Des,IT Services,27-04-2026,Hybrid,Design user-friendly digital interfaces.
+JOB0116,Cyber Security Analyst,Tech Mahindra,Bangalore,3-5 years,Full-time,750000,1200000,Cybersecurity;SIEM;Networking;Linux,B.Tech,IT Services,28-04-2026,Yes,Monitor security systems and investigate threats.
+JOB0117,Database Administrator,Oracle,Chennai,5-8 years,Full-time,1050000,1750000,SQL;MySQL;Oracle;Database,B.Tech,Banking,29-04-2026,No,Maintain enterprise database systems.
+JOB0118,QA Engineer,Cognizant,Pune,1-3 years,Full-time,480000,780000,Selenium;Testing;Java;Automation,B.E.,IT Services,30-04-2026,Hybrid,Perform automated software testing.
+JOB0119,AI Engineer,Microsoft,Bangalore,3-5 years,Full-time,1150000,1950000,Python;AI;Deep Learning;NLP,M.Tech,IT Services,01-05-2026,Yes,Build AI-powered applications.
+JOB0120,Marketing Analyst,Flipkart,Mumbai,1-3 years,Full-time,550000,880000,Excel;Google Analytics;SQL;Marketing,MBA,E-Commerce,02-05-2026,Hybrid,Analyze marketing campaigns and customer data.
+JOB0121,Data Analyst,TCS,Delhi,0-1 years,Full-time,340000,520000,Python;SQL;Excel;Power BI,B.Tech,Banking,03-05-2026,No,Prepare reports and analyze business data.
+JOB0122,Software Engineer,Infosys,Pune,1-3 years,Full-time,500000,820000,Java;Python;Git;APIs,B.E.,IT Services,04-05-2026,Yes,Develop and test software applications.
+JOB0123,Python Developer,Wipro,Bangalore,3-5 years,Full-time,720000,1180000,Python;Django;Flask;SQL,MCA,FinTech,05-05-2026,Hybrid,Develop scalable backend applications.
+JOB0124,Data Scientist,Accenture,Hyderabad,5-8 years,Full-time,1300000,2100000,Python;Machine Learning;SQL;Pandas,M.Tech,Consulting,06-05-2026,Yes,Develop predictive models and data solutions.
+JOB0125,Java Developer,Cognizant,Chennai,1-3 years,Full-time,520000,850000,Java;Spring Boot;SQL;REST API,B.Tech,IT Services,07-05-2026,No,Build Java applications and APIs.
+JOB0126,Frontend Developer,Amazon,Bangalore,3-5 years,Full-time,780000,1250000,HTML;CSS;JavaScript;React,B.E.,E-Commerce,08-05-2026,Hybrid,Build modern responsive web applications.
+JOB0127,Backend Developer,Microsoft,Hyderabad,3-5 years,Full-time,850000,1350000,Node.js;Python;APIs;SQL,B.Tech,IT Services,09-05-2026,Yes,Design and implement backend services.
+JOB0128,Full Stack Developer,Persistent Systems,Pune,1-3 years,Full-time,650000,1050000,React;Node.js;MongoDB;JavaScript,B.Tech,IT Services,10-05-2026,Hybrid,Develop full-stack web applications.
+JOB0129,Machine Learning Engineer,IBM,Bangalore,3-5 years,Full-time,1050000,1750000,Python;TensorFlow;ML;Docker,M.Tech,Healthcare,11-05-2026,Yes,Develop machine learning pipelines.
+JOB0130,Cloud Engineer,Google,Hyderabad,5-8 years,Full-time,1400000,2200000,AWS;Azure;Docker;Kubernetes,B.Tech,IT Services,12-05-2026,Hybrid,Design and manage cloud infrastructure.
+JOB0131,DevOps Engineer,Amazon,Bangalore,5-8 years,Full-time,1450000,2250000,Linux;Docker;Kubernetes;Jenkins,B.Tech,E-Commerce,13-05-2026,Yes,Manage cloud deployment and automation.
+JOB0132,Business Analyst,Capgemini,Mumbai,1-3 years,Full-time,560000,900000,Excel;SQL;Power BI;Business Analysis,MBA,Consulting,14-05-2026,Hybrid,Analyze business processes and requirements.
+JOB0133,Product Manager,Microsoft,Hyderabad,3-5 years,Full-time,1200000,1950000,Product Strategy;Agile;Analytics,MBA,IT Services,15-05-2026,Yes,Manage product roadmap and priorities.
+JOB0134,Project Manager,Accenture,Pune,5-8 years,Full-time,1300000,2000000,Agile;Scrum;Jira;Leadership,MBA,Consulting,16-05-2026,No,Lead technology projects and teams.
+JOB0135,UI UX Designer,Google,Bangalore,3-5 years,Full-time,800000,1300000,Figma;UI Design;UX Research,B.Des,IT Services,17-05-2026,Hybrid,Create user-centered product designs.
+JOB0136,Cyber Security Analyst,IBM,Mumbai,1-3 years,Full-time,600000,950000,Cybersecurity;SIEM;Networking;Linux,B.Tech,Banking,18-05-2026,Yes,Monitor systems for cybersecurity threats.
+JOB0137,Database Administrator,Oracle,Chennai,3-5 years,Full-time,800000,1300000,SQL;MySQL;Oracle;Database,B.Tech,Banking,19-05-2026,No,Manage database performance and availability.
+JOB0138,QA Engineer,TCS,Pune,1-3 years,Full-time,500000,820000,Selenium;Testing;Java;Automation,B.E.,IT Services,20-05-2026,Hybrid,Test software applications and automate test cases.
+JOB0139,AI Engineer,Google,Bangalore,5-8 years,Full-time,1500000,2400000,Python;AI;Deep Learning;NLP,M.Tech,IT Services,21-05-2026,Yes,Develop advanced artificial intelligence solutions.
+JOB0140,Marketing Analyst,Reliance Industries,Mumbai,3-5 years,Full-time,700000,1100000,Excel;Google Analytics;SQL;Marketing,MBA,Retail,22-05-2026,No,Analyze customer behavior and marketing trends.
+JOB0141,Data Analyst,Infosys,Pune,1-3 years,Full-time,490000,800000,Python;SQL;Excel;Power BI,B.Sc,IT Services,23-05-2026,Hybrid,Create dashboards and analytical reports.
+JOB0142,Software Engineer,Wipro,Bangalore,3-5 years,Full-time,720000,1180000,Java;Python;Git;APIs,B.Tech,IT Services,24-05-2026,Yes,Develop software applications and services.
+JOB0143,Python Developer,TCS,Hyderabad,1-3 years,Full-time,520000,850000,Python;Django;Flask;SQL,MCA,Healthcare,25-05-2026,Hybrid,Build backend services using Python.
+JOB0144,Data Scientist,Deloitte,Mumbai,3-5 years,Full-time,950000,1550000,Python;Machine Learning;SQL;Pandas,M.Tech,Consulting,26-05-2026,Yes,Build analytical models and business insights.
+JOB0145,Java Developer,HCLTech,Noida,5-8 years,Full-time,1050000,1750000,Java;Spring Boot;SQL;REST API,B.Tech,IT Services,27-05-2026,No,Develop enterprise Java systems.
+JOB0146,Frontend Developer,Flipkart,Bangalore,1-3 years,Full-time,550000,900000,HTML;CSS;JavaScript;React,B.E.,E-Commerce,28-05-2026,Hybrid,Develop interactive web applications.
+JOB0147,Backend Developer,IBM,Pune,3-5 years,Contract,800000,1300000,Node.js;Python;APIs;SQL,B.Tech,IT Services,29-05-2026,Yes,Develop backend APIs and integrations.
+JOB0148,Full Stack Developer,Amazon,Hyderabad,5-8 years,Full-time,1350000,2150000,React;Node.js;MongoDB;JavaScript,B.Tech,E-Commerce,30-05-2026,Hybrid,Lead development of full-stack applications.
+JOB0149,Machine Learning Engineer,Microsoft,Bangalore,3-5 years,Full-time,1100000,1850000,Python;TensorFlow;ML;Docker,M.Tech,IT Services,31-05-2026,Yes,Develop and deploy ML solutions.
+JOB0150,Cloud Engineer,Oracle,Pune,1-3 years,Full-time,700000,1150000,AWS;Azure;Docker;Kubernetes,B.Tech,IT Services,01-06-2026,Hybrid,Support cloud infrastructure operations.
+JOB0151,DevOps Engineer,Google,Bangalore,5-8 years,Full-time,1500000,2400000,Linux;Docker;Kubernetes;Jenkins,B.Tech,IT Services,02-06-2026,Yes,Manage CI/CD and cloud infrastructure.
+JOB0152,Business Analyst,Deloitte,Mumbai,3-5 years,Full-time,700000,1100000,Excel;SQL;Power BI;Business Analysis,MBA,Consulting,03-06-2026,Hybrid,Translate business needs into technical requirements.
+JOB0153,Product Manager,Amazon,Bangalore,5-8 years,Full-time,1500000,2350000,Product Strategy;Agile;Analytics,MBA,E-Commerce,04-06-2026,Yes,Lead product strategy and development.
+JOB0154,Project Manager,TCS,Chennai,3-5 years,Full-time,1050000,1700000,Agile;Scrum;Jira;Leadership,MBA,IT Services,05-06-2026,No,Coordinate project schedules and delivery.
+JOB0155,UI UX Designer,Infosys,Pune,1-3 years,Full-time,520000,850000,Figma;UI Design;UX Research,B.Des,IT Services,06-06-2026,Hybrid,Design user-friendly web and mobile interfaces.
+JOB0156,Cyber Security Analyst,HCLTech,Noida,3-5 years,Full-time,780000,1250000,Cybersecurity;SIEM;Networking;Linux,B.Tech,IT Services,07-06-2026,Yes,Identify vulnerabilities and security incidents.
+JOB0157,Database Administrator,Oracle,Hyderabad,5-8 years,Full-time,1100000,1800000,SQL;MySQL;Oracle;Database,B.Tech,Banking,08-06-2026,No,Manage database servers and backups.
+JOB0158,QA Engineer,Cognizant,Chennai,1-3 years,Full-time,480000,780000,Selenium;Testing;Java;Automation,B.E.,IT Services,09-06-2026,Hybrid,Execute functional and automation testing.
+JOB0159,AI Engineer,Google,Bangalore,3-5 years,Full-time,1150000,1950000,Python;AI;Deep Learning;NLP,M.Tech,IT Services,10-06-2026,Yes,Build AI models and intelligent applications.
+JOB0160,Marketing Analyst,Flipkart,Mumbai,1-3 years,Full-time,520000,850000,Excel;Google Analytics;SQL;Marketing,MBA,E-Commerce,11-06-2026,Hybrid,Analyze marketing performance data.
+JOB0161,Data Analyst,TCS,Mumbai,3-5 years,Full-time,650000,1050000,Python;SQL;Excel;Power BI,B.Tech,FinTech,12-06-2026,Yes,Analyze financial and business datasets.
+JOB0162,Software Engineer,Accenture,Pune,1-3 years,Full-time,520000,850000,Java;Python;Git;APIs,B.E.,Consulting,13-06-2026,Hybrid,Develop software solutions for clients.
+JOB0163,Python Developer,Wipro,Bangalore,3-5 years,Full-time,700000,1150000,Python;Django;Flask;SQL,MCA,IT Services,14-06-2026,No,Develop backend applications and APIs.
+JOB0164,Data Scientist,IBM,Hyderabad,5-8 years,Full-time,1350000,2200000,Python;Machine Learning;SQL;Pandas,M.Tech,Healthcare,15-06-2026,Yes,Develop predictive analytics models.
+JOB0165,Java Developer,Infosys,Chennai,1-3 years,Full-time,500000,820000,Java;Spring Boot;SQL;REST API,B.Tech,IT Services,16-06-2026,Hybrid,Build and maintain Java applications.
+JOB0166,Frontend Developer,Microsoft,Bangalore,3-5 years,Full-time,800000,1300000,HTML;CSS;JavaScript;React,B.E.,IT Services,17-06-2026,Yes,Develop responsive frontend applications.
+JOB0167,Backend Developer,Amazon,Hyderabad,3-5 years,Full-time,850000,1400000,Node.js;Python;APIs;SQL,B.Tech,E-Commerce,18-06-2026,Hybrid,Build scalable backend systems.
+JOB0168,Full Stack Developer,Persistent Systems,Pune,1-3 years,Full-time,650000,1050000,React;Node.js;MongoDB;JavaScript,B.Tech,IT Services,19-06-2026,Yes,Develop full-stack web solutions.
+JOB0169,Machine Learning Engineer,Google,Bangalore,5-8 years,Full-time,1550000,2450000,Python;TensorFlow;ML;Docker,M.Tech,IT Services,20-06-2026,Hybrid,Develop production machine learning systems.
+JOB0170,Cloud Engineer,Microsoft,Hyderabad,3-5 years,Full-time,950000,1600000,AWS;Azure;Docker;Kubernetes,B.Tech,IT Services,21-06-2026,Yes,Manage cloud services and infrastructure.
+JOB0171,DevOps Engineer,Amazon,Bangalore,1-3 years,Full-time,750000,1200000,Linux;Docker;Kubernetes;Jenkins,B.Tech,E-Commerce,22-06-2026,Hybrid,Automate development and deployment workflows.
+JOB0172,Business Analyst,Capgemini,Mumbai,1-3 years,Full-time,550000,900000,Excel;SQL;Power BI;Business Analysis,MBA,Consulting,23-06-2026,No,Analyze business requirements and performance.
+JOB0173,Product Manager,Microsoft,Hyderabad,5-8 years,Full-time,1450000,2250000,Product Strategy;Agile;Analytics,MBA,IT Services,24-06-2026,Yes,Define product strategy and roadmap.
+JOB0174,Project Manager,Infosys,Pune,5-8 years,Full-time,1250000,1950000,Agile;Scrum;Jira;Leadership,MBA,IT Services,25-06-2026,Hybrid,Lead project execution and stakeholder communication.
+JOB0175,UI UX Designer,Google,Bangalore,3-5 years,Full-time,750000,1200000,Figma;UI Design;UX Research,B.Des,IT Services,26-06-2026,Yes,Design user experiences and interfaces.
+JOB0176,Cyber Security Analyst,IBM,Mumbai,1-3 years,Full-time,620000,980000,Cybersecurity;SIEM;Networking;Linux,B.Tech,Banking,27-06-2026,Hybrid,Monitor and respond to cybersecurity events.
+JOB0177,Database Administrator,Oracle,Chennai,3-5 years,Full-time,820000,1350000,SQL;MySQL;Oracle;Database,B.Tech,Banking,28-06-2026,No,Maintain database systems and performance.
+JOB0178,QA Engineer,TCS,Pune,3-5 years,Full-time,650000,1050000,Selenium;Testing;Java;Automation,B.E.,IT Services,29-06-2026,Hybrid,Automate application testing and quality checks.
+JOB0179,AI Engineer,Google,Bangalore,5-8 years,Full-time,1600000,2500000,Python;AI;Deep Learning;NLP,M.Tech,IT Services,30-06-2026,Yes,Research and develop AI solutions.
+JOB0180,Marketing Analyst,Reliance Industries,Mumbai,1-3 years,Full-time,520000,850000,Excel;Google Analytics;SQL;Marketing,MBA,Retail,01-07-2026,No,Analyze marketing campaigns and customer trends.
+JOB0181,Data Analyst,Infosys,Pune,0-1 years,Internship,300000,450000,Python;SQL;Excel;Power BI,BCA,IT Services,02-07-2026,Hybrid,Support data analysis and reporting.
+JOB0182,Software Engineer,Wipro,Bangalore,3-5 years,Full-time,750000,1200000,Java;Python;Git;APIs,B.Tech,IT Services,03-07-2026,Yes,Develop and maintain enterprise applications.
+JOB0183,Python Developer,TCS,Hyderabad,1-3 years,Full-time,520000,850000,Python;Django;Flask;SQL,MCA,FinTech,04-07-2026,Hybrid,Develop Python APIs and services.
+JOB0184,Data Scientist,Accenture,Mumbai,3-5 years,Full-time,900000,1500000,Python;Machine Learning;SQL;Pandas,M.Tech,Consulting,05-07-2026,Yes,Develop data science models and insights.
+JOB0185,Java Developer,HCLTech,Noida,5-8 years,Full-time,1100000,1800000,Java;Spring Boot;SQL;REST API,B.Tech,IT Services,06-07-2026,No,Lead development of Java applications.
+JOB0186,Frontend Developer,Flipkart,Bangalore,1-3 years,Full-time,550000,900000,HTML;CSS;JavaScript;React,B.E.,E-Commerce,07-07-2026,Hybrid,Build responsive and interactive interfaces.
+JOB0187,Backend Developer,IBM,Pune,3-5 years,Full-time,800000,1300000,Node.js;Python;APIs;SQL,B.Tech,IT Services,08-07-2026,Yes,Develop APIs and backend infrastructure.
+JOB0188,Full Stack Developer,Amazon,Hyderabad,3-5 years,Full-time,850000,1400000,React;Node.js;MongoDB;JavaScript,B.Tech,E-Commerce,09-07-2026,Hybrid,Develop scalable full-stack applications.
+JOB0189,Machine Learning Engineer,Microsoft,Bangalore,3-5 years,Full-time,1100000,1800000,Python;TensorFlow;ML;Docker,M.Tech,IT Services,10-07-2026,Yes,Build and deploy machine learning models.
+JOB0190,Cloud Engineer,Oracle,Pune,5-8 years,Full-time,1300000,2100000,AWS;Azure;Docker;Kubernetes,B.Tech,IT Services,11-07-2026,Hybrid,Architect and manage cloud infrastructure.
+JOB0191,DevOps Engineer,Google,Bangalore,3-5 years,Full-time,1100000,1750000,Linux;Docker;Kubernetes;Jenkins,B.Tech,IT Services,12-07-2026,Yes,Manage CI/CD pipelines and cloud infrastructure.
+JOB0192,Business Analyst,Deloitte,Mumbai,3-5 years,Full-time,700000,1100000,Excel;SQL;Power BI;Business Analysis,MBA,Consulting,13-07-2026,Hybrid,Analyze business processes and performance.
+JOB0193,Product Manager,Amazon,Bangalore,5-8 years,Full-time,1500000,2350000,Product Strategy;Agile;Analytics,MBA,E-Commerce,14-07-2026,Yes,Lead product development and strategy.
+JOB0194,Project Manager,TCS,Pune,5-8 years,Full-time,1300000,2000000,Agile;Scrum;Jira;Leadership,MBA,IT Services,15-07-2026,No,Manage project scope and delivery.
+JOB0195,UI UX Designer,Microsoft,Hyderabad,1-3 years,Full-time,550000,900000,Figma;UI Design;UX Research,B.Des,IT Services,16-07-2026,Hybrid,Create user-centered digital designs.
+JOB0196,Cyber Security Analyst,IBM,Bangalore,3-5 years,Full-time,750000,1200000,Cybersecurity;SIEM;Networking;Linux,B.Tech,IT Services,17-07-2026,Yes,Analyze threats and security incidents.
+JOB0197,Database Administrator,Oracle,Chennai,5-8 years,Full-time,1100000,1800000,SQL;MySQL;Oracle;Database,B.Tech,Banking,18-07-2026,No,Manage databases and ensure availability.
+JOB0198,QA Engineer,Cognizant,Pune,1-3 years,Full-time,500000,820000,Selenium;Testing;Java;Automation,B.E.,IT Services,19-07-2026,Hybrid,Perform automated and manual testing.
+JOB0199,AI Engineer,Google,Bangalore,3-5 years,Full-time,1150000,1950000,Python;AI;Deep Learning;NLP,M.Tech,IT Services,20-07-2026,Yes,Develop AI models and applications.
+JOB0200,Marketing Analyst,Flipkart,Mumbai,1-3 years,Full-time,550000,900000,Excel;Google Analytics;SQL;Marketing,MBA,E-Commerce,21-07-2026,Hybrid,Analyze customer and marketing data.
+JOB0201,Data Analyst,TCS,Mumbai,1-3 years,Full-time,500000,820000,Python;SQL;Excel;Power BI,B.Tech,IT Services,22-07-2026,Hybrid,Analyze business data and create dashboards.
+JOB0202,Software Engineer,Infosys,Pune,3-5 years,Full-time,720000,1200000,Java;Python;Git;APIs,B.E.,IT Services,23-07-2026,Yes,Develop scalable software applications.
+JOB0203,Python Developer,Wipro,Bangalore,1-3 years,Full-time,520000,850000,Python;Django;Flask;SQL,MCA,FinTech,24-07-2026,Hybrid,Build backend services and APIs.
+JOB0204,Data Scientist,Accenture,Hyderabad,3-5 years,Full-time,950000,1550000,Python;Machine Learning;SQL;Pandas,M.Tech,Consulting,25-07-2026,Yes,Develop predictive models and analytical solutions.
+JOB0205,Java Developer,Capgemini,Chennai,1-3 years,Full-time,500000,820000,Java;Spring Boot;SQL;REST API,B.Tech,IT Services,26-07-2026,No,Develop enterprise Java applications.
+JOB0206,Frontend Developer,Deloitte,Mumbai,3-5 years,Full-time,750000,1200000,HTML;CSS;JavaScript;React,B.E.,Consulting,27-07-2026,Hybrid,Build responsive web interfaces.
+JOB0207,Backend Developer,HCLTech,Noida,3-5 years,Full-time,800000,1300000,Node.js;Python;APIs;SQL,B.Tech,IT Services,28-07-2026,Yes,Develop scalable backend services.
+JOB0208,Full Stack Developer,Cognizant,Bangalore,1-3 years,Full-time,650000,1050000,React;Node.js;MongoDB;JavaScript,B.Tech,IT Services,29-07-2026,Hybrid,Build full-stack web applications.
+JOB0209,Machine Learning Engineer,IBM,Bangalore,5-8 years,Full-time,1400000,2250000,Python;TensorFlow;ML;Docker,M.Tech,IT Services,30-07-2026,Yes,Develop and deploy machine learning models.
+JOB0210,Cloud Engineer,Microsoft,Hyderabad,3-5 years,Full-time,950000,1600000,AWS;Azure;Docker;Kubernetes,B.Tech,IT Services,31-07-2026,Hybrid,Manage cloud infrastructure and services.
+JOB0211,DevOps Engineer,Amazon,Bangalore,3-5 years,Full-time,1050000,1700000,Linux;Docker;Kubernetes;Jenkins,B.Tech,E-Commerce,01-08-2026,Yes,Automate deployment and infrastructure.
+JOB0212,Business Analyst,Tech Mahindra,Mumbai,1-3 years,Full-time,550000,900000,Excel;SQL;Power BI;Business Analysis,MBA,Banking,02-08-2026,Hybrid,Analyze business requirements and processes.
+JOB0213,Product Manager,Oracle,Bangalore,5-8 years,Full-time,1400000,2200000,Product Strategy;Agile;Analytics,MBA,IT Services,03-08-2026,Yes,Manage product strategy and roadmap.
+JOB0214,Project Manager,LTIMindtree,Pune,5-8 years,Full-time,1250000,2000000,Agile;Scrum;Jira;Leadership,MBA,IT Services,04-08-2026,No,Lead technology projects and teams.
+JOB0215,UI UX Designer,Persistent Systems,Mumbai,1-3 years,Full-time,550000,900000,Figma;UI Design;UX Research,B.Des,E-Commerce,05-08-2026,Hybrid,Design user-friendly digital experiences.
+JOB0216,Cyber Security Analyst,Mphasis,Hyderabad,3-5 years,Full-time,750000,1200000,Cybersecurity;SIEM;Networking;Linux,B.Tech,IT Services,06-08-2026,Yes,Monitor security events and investigate threats.
+JOB0217,Database Administrator,Oracle,Chennai,5-8 years,Full-time,1100000,1800000,SQL;MySQL;Oracle;Database,B.Tech,Banking,07-08-2026,No,Maintain database systems and performance.
+JOB0218,QA Engineer,Cognizant,Pune,1-3 years,Full-time,500000,820000,Selenium;Testing;Java;Automation,B.E.,IT Services,08-08-2026,Hybrid,Perform software testing and automation.
+JOB0219,AI Engineer,Google,Bangalore,3-5 years,Full-time,1200000,2000000,Python;AI;Deep Learning;NLP,M.Tech,IT Services,09-08-2026,Yes,Develop AI-powered applications.
+JOB0220,Marketing Analyst,Flipkart,Mumbai,1-3 years,Full-time,550000,900000,Excel;Google Analytics;SQL;Marketing,MBA,E-Commerce,10-08-2026,Hybrid,Analyze marketing campaigns and customer behavior.
+JOB0221,Data Analyst,Infosys,Bangalore,0-1 years,Internship,300000,450000,Python;SQL;Excel;Power BI,B.Sc,IT Services,11-08-2026,Yes,Support data analysis and reporting.
+JOB0222,Software Engineer,TCS,Pune,1-3 years,Full-time,520000,850000,Java;Python;Git;APIs,B.Tech,IT Services,12-08-2026,Hybrid,Develop and test software solutions.
+JOB0223,Python Developer,Accenture,Mumbai,3-5 years,Full-time,700000,1150000,Python;Django;Flask;SQL,MCA,Consulting,13-08-2026,Yes,Develop Python applications and APIs.
+JOB0224,Data Scientist,Microsoft,Bangalore,5-8 years,Full-time,1350000,2150000,Python;Machine Learning;SQL;Pandas,M.Tech,IT Services,14-08-2026,Hybrid,Build advanced predictive models.
+JOB0225,Java Developer,Wipro,Chennai,3-5 years,Full-time,700000,1150000,Java;Spring Boot;SQL;REST API,B.Tech,Telecommunications,15-08-2026,No,Develop Java-based enterprise systems.
+JOB0226,Frontend Developer,Amazon,Bangalore,1-3 years,Full-time,550000,900000,HTML;CSS;JavaScript;React,B.E.,E-Commerce,16-08-2026,Hybrid,Create modern responsive interfaces.
+JOB0227,Backend Developer,IBM,Pune,5-8 years,Full-time,1200000,1900000,Node.js;Python;APIs;SQL,B.Tech,IT Services,17-08-2026,Yes,Design scalable backend architecture.
+JOB0228,Full Stack Developer,Microsoft,Hyderabad,3-5 years,Full-time,850000,1400000,React;Node.js;MongoDB;JavaScript,B.Tech,IT Services,18-08-2026,Hybrid,Develop full-stack applications.
+JOB0229,Machine Learning Engineer,Google,Bangalore,3-5 years,Full-time,1100000,1850000,Python;TensorFlow;ML;Docker,M.Tech,IT Services,19-08-2026,Yes,Train and deploy machine learning models.
+JOB0230,Cloud Engineer,Amazon,Hyderabad,5-8 years,Full-time,1400000,2200000,AWS;Azure;Docker;Kubernetes,B.Tech,E-Commerce,20-08-2026,Hybrid,Design cloud infrastructure solutions.
+JOB0231,DevOps Engineer,Google,Bangalore,5-8 years,Full-time,1500000,2400000,Linux;Docker;Kubernetes;Jenkins,B.Tech,IT Services,21-08-2026,Yes,Manage CI/CD pipelines and infrastructure.
+JOB0232,Business Analyst,Deloitte,Mumbai,3-5 years,Full-time,700000,1100000,Excel;SQL;Power BI;Business Analysis,MBA,Consulting,22-08-2026,Hybrid,Analyze business performance and requirements.
+JOB0233,Product Manager,Amazon,Bangalore,5-8 years,Full-time,1500000,2350000,Product Strategy;Agile;Analytics,MBA,E-Commerce,23-08-2026,Yes,Drive product roadmap and strategy.
+JOB0234,Project Manager,TCS,Pune,3-5 years,Full-time,1050000,1700000,Agile;Scrum;Jira;Leadership,MBA,IT Services,24-08-2026,No,Coordinate project delivery and stakeholders.
+JOB0235,UI UX Designer,Microsoft,Hyderabad,3-5 years,Full-time,750000,1200000,Figma;UI Design;UX Research,B.Des,IT Services,25-08-2026,Hybrid,Create user-centered product designs.
+JOB0236,Cyber Security Analyst,IBM,Bangalore,1-3 years,Full-time,620000,980000,Cybersecurity;SIEM;Networking;Linux,B.Tech,IT Services,26-08-2026,Yes,Analyze security alerts and vulnerabilities.
+JOB0237,Database Administrator,Oracle,Chennai,3-5 years,Full-time,850000,1350000,SQL;MySQL;Oracle;Database,B.Tech,Banking,27-08-2026,No,Manage database availability and performance.
+JOB0238,QA Engineer,TCS,Pune,3-5 years,Full-time,650000,1050000,Selenium;Testing;Java;Automation,B.E.,IT Services,28-08-2026,Hybrid,Develop automated testing frameworks.
+JOB0239,AI Engineer,Google,Bangalore,5-8 years,Full-time,1550000,2450000,Python;AI;Deep Learning;NLP,M.Tech,IT Services,29-08-2026,Yes,Build advanced AI solutions.
+JOB0240,Marketing Analyst,Reliance Industries,Mumbai,3-5 years,Full-time,700000,1100000,Excel;Google Analytics;SQL;Marketing,MBA,Retail,30-08-2026,No,Analyze customer and marketing trends.
+JOB0241,Data Analyst,Capgemini,Pune,1-3 years,Full-time,500000,820000,Python;SQL;Excel;Power BI,B.Tech,IT Services,31-08-2026,Hybrid,Prepare analytical reports and dashboards.
+JOB0242,Software Engineer,Infosys,Bangalore,3-5 years,Full-time,750000,1200000,Java;Python;Git;APIs,B.E.,IT Services,01-09-2026,Yes,Develop enterprise software applications.
+JOB0243,Python Developer,Wipro,Hyderabad,1-3 years,Full-time,520000,850000,Python;Django;Flask;SQL,MCA,FinTech,02-09-2026,Hybrid,Develop Python backend services.
+JOB0244,Data Scientist,Accenture,Mumbai,3-5 years,Full-time,950000,1550000,Python;Machine Learning;SQL;Pandas,M.Tech,Consulting,03-09-2026,Yes,Develop predictive analytics models.
+JOB0245,Java Developer,HCLTech,Noida,5-8 years,Full-time,1050000,1750000,Java;Spring Boot;SQL;REST API,B.Tech,IT Services,04-09-2026,No,Lead Java application development.
+JOB0246,Frontend Developer,Flipkart,Bangalore,1-3 years,Full-time,550000,900000,HTML;CSS;JavaScript;React,B.E.,E-Commerce,05-09-2026,Hybrid,Develop interactive web applications.
+JOB0247,Backend Developer,Cognizant,Pune,3-5 years,Full-time,800000,1300000,Node.js;Python;APIs;SQL,B.Tech,IT Services,06-09-2026,Yes,Develop backend APIs and integrations.
+JOB0248,Full Stack Developer,Amazon,Hyderabad,5-8 years,Full-time,1300000,2100000,React;Node.js;MongoDB;JavaScript,B.Tech,E-Commerce,07-09-2026,Hybrid,Lead full-stack application development.
+JOB0249,Machine Learning Engineer,Microsoft,Bangalore,3-5 years,Full-time,1100000,1850000,Python;TensorFlow;ML;Docker,M.Tech,IT Services,08-09-2026,Yes,Develop production ML systems.
+JOB0250,Cloud Engineer,Oracle,Pune,3-5 years,Full-time,950000,1550000,AWS;Azure;Docker;Kubernetes,B.Tech,IT Services,09-09-2026,Hybrid,Manage cloud infrastructure.
+JOB0251,DevOps Engineer,Amazon,Bangalore,5-8 years,Full-time,1450000,2250000,Linux;Docker;Kubernetes;Jenkins,B.Tech,E-Commerce,10-09-2026,Yes,Automate deployment and infrastructure.
+JOB0252,Business Analyst,Deloitte,Mumbai,1-3 years,Full-time,550000,900000,Excel;SQL;Power BI;Business Analysis,MBA,Consulting,11-09-2026,Hybrid,Analyze business requirements.
+JOB0253,Product Manager,Microsoft,Hyderabad,5-8 years,Full-time,1450000,2300000,Product Strategy;Agile;Analytics,MBA,IT Services,12-09-2026,Yes,Manage product strategy and roadmap.
+JOB0254,Project Manager,TCS,Pune,5-8 years,Full-time,1300000,2000000,Agile;Scrum;Jira;Leadership,MBA,IT Services,13-09-2026,No,Lead project teams and delivery.
+JOB0255,UI UX Designer,Google,Bangalore,1-3 years,Full-time,550000,900000,Figma;UI Design;UX Research,B.Des,IT Services,14-09-2026,Hybrid,Design intuitive user interfaces.
+JOB0256,Cyber Security Analyst,IBM,Mumbai,3-5 years,Full-time,750000,1200000,Cybersecurity;SIEM;Networking;Linux,B.Tech,Banking,15-09-2026,Yes,Monitor cybersecurity threats.
+JOB0257,Database Administrator,Oracle,Chennai,5-8 years,Full-time,1100000,1800000,SQL;MySQL;Oracle;Database,B.Tech,Banking,16-09-2026,No,Maintain database systems.
+JOB0258,QA Engineer,Cognizant,Pune,1-3 years,Full-time,500000,820000,Selenium;Testing;Java;Automation,B.E.,IT Services,16-09-2026,Hybrid,Perform software quality testing.
+JOB0259,AI Engineer,Google,Bangalore,3-5 years,Full-time,1150000,1950000,Python;AI;Deep Learning;NLP,M.Tech,IT Services,16-09-2026,Yes,Develop AI-powered solutions.
+JOB0260,Marketing Analyst,Flipkart,Mumbai,1-3 years,Full-time,550000,900000,Excel;Google Analytics;SQL;Marketing,MBA,E-Commerce,16-09-2026,Hybrid,Analyze marketing data.
+JOB0261,Data Analyst,TCS,Pune,1-3 years,Full-time,500000,820000,Python;SQL;Excel;Power BI,B.Sc,FinTech,16-09-2026,Yes,Analyze financial datasets.
+JOB0262,Software Engineer,Accenture,Bangalore,1-3 years,Full-time,550000,900000,Java;Python;Git;APIs,B.Tech,Consulting,16-09-2026,Hybrid,Develop software applications.
+JOB0263,Python Developer,Infosys,Hyderabad,3-5 years,Full-time,700000,1150000,Python;Django;Flask;SQL,MCA,IT Services,16-09-2026,No,Build scalable Python applications.
+JOB0264,Data Scientist,IBM,Bangalore,5-8 years,Full-time,1300000,2100000,Python;Machine Learning;SQL;Pandas,M.Tech,Healthcare,16-09-2026,Yes,Create predictive analytics models.
+JOB0265,Java Developer,Cognizant,Chennai,1-3 years,Full-time,500000,820000,Java;Spring Boot;SQL;REST API,B.Tech,IT Services,16-09-2026,Hybrid,Develop Java applications.
+JOB0266,Frontend Developer,Microsoft,Bangalore,3-5 years,Full-time,800000,1300000,HTML;CSS;JavaScript;React,B.E.,IT Services,16-09-2026,Yes,Build responsive frontend applications.
+JOB0267,Backend Developer,Amazon,Hyderabad,3-5 years,Full-time,850000,1400000,Node.js;Python;APIs;SQL,B.Tech,E-Commerce,16-09-2026,Hybrid,Develop scalable APIs.
+JOB0268,Full Stack Developer,Persistent Systems,Pune,1-3 years,Full-time,650000,1050000,React;Node.js;MongoDB;JavaScript,B.Tech,IT Services,16-09-2026,Yes,Build full-stack applications.
+JOB0269,Machine Learning Engineer,Google,Bangalore,5-8 years,Full-time,1500000,2400000,Python;TensorFlow;ML;Docker,M.Tech,IT Services,16-09-2026,Hybrid,Develop machine learning solutions.
+JOB0270,Cloud Engineer,Microsoft,Hyderabad,3-5 years,Full-time,950000,1600000,AWS;Azure;Docker;Kubernetes,B.Tech,IT Services,16-09-2026,Yes,Manage cloud infrastructure.
+JOB0271,DevOps Engineer,Amazon,Bangalore,3-5 years,Full-time,1000000,1650000,Linux;Docker;Kubernetes;Jenkins,B.Tech,E-Commerce,16-09-2026,Hybrid,Manage deployment pipelines.
+JOB0272,Business Analyst,Capgemini,Mumbai,1-3 years,Full-time,550000,900000,Excel;SQL;Power BI;Business Analysis,MBA,Consulting,16-09-2026,No,Analyze business requirements.
+JOB0273,Product Manager,Amazon,Bangalore,5-8 years,Full-time,1500000,2350000,Product Strategy;Agile;Analytics,MBA,E-Commerce,16-09-2026,Yes,Lead product strategy.
+JOB0274,Project Manager,TCS,Pune,5-8 years,Full-time,1300000,2000000,Agile;Scrum;Jira;Leadership,MBA,IT Services,16-09-2026,Hybrid,Manage project delivery.
+JOB0275,UI UX Designer,Microsoft,Hyderabad,3-5 years,Full-time,750000,1200000,Figma;UI Design;UX Research,B.Des,IT Services,16-09-2026,Yes,Design digital experiences.
+JOB0276,Cyber Security Analyst,IBM,Bangalore,1-3 years,Full-time,600000,950000,Cybersecurity;SIEM;Networking;Linux,B.Tech,IT Services,16-09-2026,Hybrid,Monitor security events.
+JOB0277,Database Administrator,Oracle,Chennai,3-5 years,Full-time,800000,1300000,SQL;MySQL;Oracle;Database,B.Tech,Banking,16-09-2026,No,Maintain enterprise databases.
+JOB0278,QA Engineer,TCS,Pune,3-5 years,Full-time,650000,1050000,Selenium;Testing;Java;Automation,B.E.,IT Services,16-09-2026,Hybrid,Perform automated testing.
+JOB0279,AI Engineer,Google,Bangalore,5-8 years,Full-time,1550000,2450000,Python;AI;Deep Learning;NLP,M.Tech,IT Services,16-09-2026,Yes,Build advanced AI systems.
+JOB0280,Marketing Analyst,Flipkart,Mumbai,1-3 years,Full-time,550000,900000,Excel;Google Analytics;SQL;Marketing,MBA,E-Commerce,16-09-2026,Hybrid,Analyze marketing performance.
+JOB0281,Data Analyst,Infosys,Pune,1-3 years,Full-time,500000,820000,Python;SQL;Excel;Power BI,B.Tech,IT Services,16-09-2026,Yes,Create analytical dashboards.
+JOB0282,Software Engineer,Wipro,Bangalore,3-5 years,Full-time,750000,1200000,Java;Python;Git;APIs,B.E.,IT Services,16-09-2026,Hybrid,Develop enterprise applications.
+JOB0283,Python Developer,TCS,Hyderabad,1-3 years,Full-time,520000,850000,Python;Django;Flask;SQL,MCA,FinTech,16-09-2026,No,Develop Python backend systems.
+JOB0284,Data Scientist,Accenture,Mumbai,3-5 years,Full-time,950000,1550000,Python;Machine Learning;SQL;Pandas,M.Tech,Consulting,16-09-2026,Yes,Build predictive models.
+JOB0285,Java Developer,HCLTech,Noida,5-8 years,Full-time,1050000,1750000,Java;Spring Boot;SQL;REST API,B.Tech,IT Services,16-09-2026,Hybrid,Lead Java development.
+JOB0286,Frontend Developer,Flipkart,Bangalore,1-3 years,Full-time,550000,900000,HTML;CSS;JavaScript;React,B.E.,E-Commerce,16-09-2026,Yes,Develop web interfaces.
+JOB0287,Backend Developer,IBM,Pune,3-5 years,Full-time,800000,1300000,Node.js;Python;APIs;SQL,B.Tech,IT Services,16-09-2026,Hybrid,Build backend services.
+JOB0288,Full Stack Developer,Amazon,Hyderabad,5-8 years,Full-time,1300000,2100000,React;Node.js;MongoDB;JavaScript,B.Tech,E-Commerce,16-09-2026,Yes,Develop full-stack systems.
+JOB0289,Machine Learning Engineer,Microsoft,Bangalore,3-5 years,Full-time,1100000,1850000,Python;TensorFlow;ML;Docker,M.Tech,IT Services,16-09-2026,Hybrid,Deploy machine learning models.
+JOB0290,Cloud Engineer,Oracle,Pune,3-5 years,Full-time,950000,1550000,AWS;Azure;Docker;Kubernetes,B.Tech,IT Services,16-09-2026,Yes,Manage cloud services.
+JOB0291,DevOps Engineer,Google,Bangalore,5-8 years,Full-time,1500000,2400000,Linux;Docker;Kubernetes;Jenkins,B.Tech,IT Services,16-09-2026,Hybrid,Automate cloud infrastructure.
+JOB0292,Business Analyst,Deloitte,Mumbai,1-3 years,Full-time,550000,900000,Excel;SQL;Power BI;Business Analysis,MBA,Consulting,16-09-2026,No,Analyze business operations.
+JOB0293,Product Manager,Microsoft,Hyderabad,5-8 years,Full-time,1450000,2300000,Product Strategy;Agile;Analytics,MBA,IT Services,16-09-2026,Yes,Manage product roadmap.
+JOB0294,Project Manager,TCS,Pune,5-8 years,Full-time,1300000,2000000,Agile;Scrum;Jira;Leadership,MBA,IT Services,16-09-2026,Hybrid,Lead technology projects.
+JOB0295,UI UX Designer,Google,Bangalore,1-3 years,Full-time,550000,900000,Figma;UI Design;UX Research,B.Des,IT Services,16-09-2026,Yes,Design user interfaces.
+JOB0296,Cyber Security Analyst,IBM,Mumbai,3-5 years,Full-time,750000,1200000,Cybersecurity;SIEM;Networking;Linux,B.Tech,Banking,16-09-2026,Hybrid,Investigate security incidents.
+JOB0297,Database Administrator,Oracle,Chennai,5-8 years,Full-time,1100000,1800000,SQL;MySQL;Oracle;Database,B.Tech,Banking,16-09-2026,No,Manage database systems.
+JOB0298,QA Engineer,Cognizant,Pune,1-3 years,Full-time,500000,820000,Selenium;Testing;Java;Automation,B.E.,IT Services,16-09-2026,Hybrid,Perform software quality assurance.
+JOB0299,AI Engineer,Google,Bangalore,3-5 years,Full-time,1150000,1950000,Python;AI;Deep Learning;NLP,M.Tech,IT Services,16-09-2026,Yes,Develop AI applications.
+JOB0300,Marketing Analyst,Flipkart,Mumbai,1-3 years,Full-time,550000,900000,Excel;Google Analytics;SQL;Marketing,MBA,E-Commerce,16-09-2026,Hybrid,Analyze marketing and customer data.
+JOB0301,Data Analyst,TCS,Mumbai,1-3 years,Full-time,500000,820000,Python;SQL;Excel;Power BI,B.Tech,IT Services,16-09-2026,Hybrid,Analyze business data and create dashboards.
+JOB0401,Data Analyst,TCS,Mumbai,1-3 years,Full-time,500000,820000,Python;SQL;Excel;Power BI,B.Tech,IT Services,16-09-2026,Hybrid,Analyze business data and create dashboards.
+JOB0402,Software Engineer,Infosys,Pune,3-5 years,Full-time,750000,1200000,Java;Python;Git;APIs,B.E.,IT Services,16-09-2026,Yes,Develop scalable software applications.
+JOB0403,Python Developer,Wipro,Bangalore,1-3 years,Full-time,520000,850000,Python;Django;Flask;SQL,MCA,FinTech,16-09-2026,Hybrid,Build backend applications and APIs.
+JOB0404,Data Scientist,Accenture,Hyderabad,3-5 years,Full-time,950000,1550000,Python;Machine Learning;SQL;Pandas,M.Tech,Consulting,16-09-2026,Yes,Develop predictive models and insights.
+JOB0405,Java Developer,Capgemini,Chennai,1-3 years,Full-time,500000,820000,Java;Spring Boot;SQL;REST API,B.Tech,IT Services,16-09-2026,No,Develop enterprise Java applications.
+JOB0406,Frontend Developer,Deloitte,Mumbai,3-5 years,Full-time,750000,1200000,HTML;CSS;JavaScript;React,B.E.,Consulting,16-09-2026,Hybrid,Develop responsive web interfaces.
+JOB0407,Backend Developer,HCLTech,Noida,3-5 years,Full-time,800000,1300000,Node.js;Python;APIs;SQL,B.Tech,IT Services,16-09-2026,Yes,Develop scalable backend services.
+JOB0408,Full Stack Developer,Cognizant,Bangalore,1-3 years,Full-time,650000,1050000,React;Node.js;MongoDB;JavaScript,B.Tech,IT Services,16-09-2026,Hybrid,Build full-stack web applications.
+JOB0409,Machine Learning Engineer,IBM,Bangalore,5-8 years,Full-time,1400000,2250000,Python;TensorFlow;ML;Docker,M.Tech,IT Services,16-09-2026,Yes,Develop machine learning systems.
+JOB0410,Cloud Engineer,Microsoft,Hyderabad,3-5 years,Full-time,950000,1600000,AWS;Azure;Docker;Kubernetes,B.Tech,IT Services,16-09-2026,Hybrid,Manage cloud infrastructure.
+JOB0411,DevOps Engineer,Amazon,Bangalore,3-5 years,Full-time,1050000,1700000,Linux;Docker;Kubernetes;Jenkins,B.Tech,E-Commerce,16-09-2026,Yes,Automate deployment processes.
+JOB0412,Business Analyst,Tech Mahindra,Mumbai,1-3 years,Full-time,550000,900000,Excel;SQL;Power BI;Business Analysis,MBA,Banking,16-09-2026,Hybrid,Analyze business requirements.
+JOB0413,Product Manager,Oracle,Bangalore,5-8 years,Full-time,1400000,2200000,Product Strategy;Agile;Analytics,MBA,IT Services,16-09-2026,Yes,Manage product strategy.
+JOB0414,Project Manager,LTIMindtree,Pune,5-8 years,Full-time,1250000,2000000,Agile;Scrum;Jira;Leadership,MBA,IT Services,16-09-2026,No,Lead project delivery.
+JOB0415,UI UX Designer,Persistent Systems,Mumbai,1-3 years,Full-time,550000,900000,Figma;UI Design;UX Research,B.Des,E-Commerce,16-09-2026,Hybrid,Design digital experiences.
+JOB0416,Cyber Security Analyst,Mphasis,Hyderabad,3-5 years,Full-time,750000,1200000,Cybersecurity;SIEM;Networking;Linux,B.Tech,IT Services,16-09-2026,Yes,Monitor cybersecurity events.
+JOB0417,Database Administrator,Oracle,Chennai,5-8 years,Full-time,1100000,1800000,SQL;MySQL;Oracle;Database,B.Tech,Banking,16-09-2026,No,Maintain database systems.
+JOB0418,QA Engineer,Cognizant,Pune,1-3 years,Full-time,500000,820000,Selenium;Testing;Java;Automation,B.E.,IT Services,16-09-2026,Hybrid,Perform software testing.
+JOB0419,AI Engineer,Google,Bangalore,3-5 years,Full-time,1200000,2000000,Python;AI;Deep Learning;NLP,M.Tech,IT Services,16-09-2026,Yes,Develop AI applications.
+JOB0420,Marketing Analyst,Flipkart,Mumbai,1-3 years,Full-time,550000,900000,Excel;Google Analytics;SQL;Marketing,MBA,E-Commerce,16-09-2026,Hybrid,Analyze marketing performance.
+JOB0421,Data Analyst,Infosys,Bangalore,0-1 years,Internship,300000,450000,Python;SQL;Excel;Power BI,B.Sc,IT Services,16-09-2026,Yes,Support data analysis.
+JOB0422,Software Engineer,TCS,Pune,1-3 years,Full-time,520000,850000,Java;Python;Git;APIs,B.Tech,IT Services,16-09-2026,Hybrid,Develop software solutions.
+JOB0423,Python Developer,Accenture,Mumbai,3-5 years,Full-time,700000,1150000,Python;Django;Flask;SQL,MCA,Consulting,16-09-2026,Yes,Develop Python services.
+JOB0424,Data Scientist,Microsoft,Bangalore,5-8 years,Full-time,1350000,2150000,Python;Machine Learning;SQL;Pandas,M.Tech,IT Services,16-09-2026,Hybrid,Build predictive models.
+JOB0425,Java Developer,Wipro,Chennai,3-5 years,Full-time,700000,1150000,Java;Spring Boot;SQL;REST API,B.Tech,Telecommunications,16-09-2026,No,Develop Java systems.
+JOB0426,Frontend Developer,Amazon,Bangalore,1-3 years,Full-time,550000,900000,HTML;CSS;JavaScript;React,B.E.,E-Commerce,16-09-2026,Hybrid,Build responsive interfaces.
+JOB0427,Backend Developer,IBM,Pune,5-8 years,Full-time,1200000,1900000,Node.js;Python;APIs;SQL,B.Tech,IT Services,16-09-2026,Yes,Design backend architecture.
+JOB0428,Full Stack Developer,Microsoft,Hyderabad,3-5 years,Full-time,850000,1400000,React;Node.js;MongoDB;JavaScript,B.Tech,IT Services,16-09-2026,Hybrid,Develop full-stack applications.
+JOB0429,Machine Learning Engineer,Google,Bangalore,3-5 years,Full-time,1100000,1850000,Python;TensorFlow;ML;Docker,M.Tech,IT Services,16-09-2026,Yes,Deploy ML models.
+JOB0430,Cloud Engineer,Amazon,Hyderabad,5-8 years,Full-time,1400000,2200000,AWS;Azure;Docker;Kubernetes,B.Tech,E-Commerce,16-09-2026,Hybrid,Design cloud infrastructure.
+JOB0431,DevOps Engineer,Google,Bangalore,5-8 years,Full-time,1500000,2400000,Linux;Docker;Kubernetes;Jenkins,B.Tech,IT Services,16-09-2026,Yes,Manage CI/CD infrastructure.
+JOB0432,Business Analyst,Deloitte,Mumbai,3-5 years,Full-time,700000,1100000,Excel;SQL;Power BI;Business Analysis,MBA,Consulting,16-09-2026,Hybrid,Analyze business processes.
+JOB0433,Product Manager,Amazon,Bangalore,5-8 years,Full-time,1500000,2350000,Product Strategy;Agile;Analytics,MBA,E-Commerce,16-09-2026,Yes,Drive product roadmap.
+JOB0434,Project Manager,TCS,Pune,3-5 years,Full-time,1050000,1700000,Agile;Scrum;Jira;Leadership,MBA,IT Services,16-09-2026,No,Coordinate project delivery.
+JOB0435,UI UX Designer,Microsoft,Hyderabad,3-5 years,Full-time,750000,1200000,Figma;UI Design;UX Research,B.Des,IT Services,16-09-2026,Hybrid,Design user-centered products.
+JOB0436,Cyber Security Analyst,IBM,Bangalore,1-3 years,Full-time,620000,980000,Cybersecurity;SIEM;Networking;Linux,B.Tech,IT Services,16-09-2026,Yes,Analyze security alerts.
+JOB0437,Database Administrator,Oracle,Chennai,3-5 years,Full-time,850000,1350000,SQL;MySQL;Oracle;Database,B.Tech,Banking,16-09-2026,No,Manage database performance.
+JOB0438,QA Engineer,TCS,Pune,3-5 years,Full-time,650000,1050000,Selenium;Testing;Java;Automation,B.E.,IT Services,16-09-2026,Hybrid,Develop automated tests.
+JOB0439,AI Engineer,Google,Bangalore,5-8 years,Full-time,1550000,2450000,Python;AI;Deep Learning;NLP,M.Tech,IT Services,16-09-2026,Yes,Build advanced AI systems.
+JOB0440,Marketing Analyst,Reliance Industries,Mumbai,3-5 years,Full-time,700000,1100000,Excel;Google Analytics;SQL;Marketing,MBA,Retail,16-09-2026,No,Analyze customer trends.
+JOB0441,Data Analyst,Capgemini,Pune,1-3 years,Full-time,500000,820000,Python;SQL;Excel;Power BI,B.Sc,IT Services,16-09-2026,Hybrid,Prepare data reports.
+JOB0442,Software Engineer,Infosys,Bangalore,3-5 years,Full-time,750000,1200000,Java;Python;Git;APIs,B.E.,IT Services,16-09-2026,Yes,Develop enterprise software.
+JOB0443,Python Developer,Wipro,Hyderabad,1-3 years,Full-time,520000,850000,Python;Django;Flask;SQL,MCA,FinTech,16-09-2026,Hybrid,Build Python applications.
+JOB0444,Data Scientist,Accenture,Mumbai,3-5 years,Full-time,950000,1550000,Python;Machine Learning;SQL;Pandas,M.Tech,Consulting,16-09-2026,Yes,Develop analytical models.
+JOB0445,Java Developer,HCLTech,Noida,5-8 years,Full-time,1050000,1750000,Java;Spring Boot;SQL;REST API,B.Tech,IT Services,16-09-2026,No,Lead Java development.
+JOB0446,Frontend Developer,Flipkart,Bangalore,1-3 years,Full-time,550000,900000,HTML;CSS;JavaScript;React,B.E.,E-Commerce,16-09-2026,Hybrid,Develop web applications.
+JOB0447,Backend Developer,Cognizant,Pune,3-5 years,Full-time,800000,1300000,Node.js;Python;APIs;SQL,B.Tech,IT Services,16-09-2026,Yes,Build backend APIs.
+JOB0448,Full Stack Developer,Amazon,Hyderabad,5-8 years,Full-time,1300000,2100000,React;Node.js;MongoDB;JavaScript,B.Tech,E-Commerce,16-09-2026,Hybrid,Lead full-stack development.
+JOB0449,Machine Learning Engineer,Microsoft,Bangalore,3-5 years,Full-time,1100000,1850000,Python;TensorFlow;ML;Docker,M.Tech,IT Services,16-09-2026,Yes,Build production ML systems.
+JOB0450,Cloud Engineer,Oracle,Pune,3-5 years,Full-time,950000,1550000,AWS;Azure;Docker;Kubernetes,B.Tech,IT Services,16-09-2026,Hybrid,Manage cloud services.
+JOB0451,DevOps Engineer,Amazon,Bangalore,5-8 years,Full-time,1450000,2250000,Linux;Docker;Kubernetes;Jenkins,B.Tech,E-Commerce,16-09-2026,Yes,Automate deployment.
+JOB0452,Business Analyst,Deloitte,Mumbai,1-3 years,Full-time,550000,900000,Excel;SQL;Power BI;Business Analysis,MBA,Consulting,16-09-2026,Hybrid,Analyze business requirements.
+JOB0453,Product Manager,Microsoft,Hyderabad,5-8 years,Full-time,1450000,2300000,Product Strategy;Agile;Analytics,MBA,IT Services,16-09-2026,Yes,Manage product roadmap.
+JOB0454,Project Manager,TCS,Pune,5-8 years,Full-time,1300000,2000000,Agile;Scrum;Jira;Leadership,MBA,IT Services,16-09-2026,No,Lead project teams.
+JOB0455,UI UX Designer,Google,Bangalore,1-3 years,Full-time,550000,900000,Figma;UI Design;UX Research,B.Des,IT Services,16-09-2026,Hybrid,Design user interfaces.
+JOB0456,Cyber Security Analyst,IBM,Mumbai,3-5 years,Full-time,750000,1200000,Cybersecurity;SIEM;Networking;Linux,B.Tech,Banking,16-09-2026,Yes,Investigate security incidents.
+JOB0457,Database Administrator,Oracle,Chennai,5-8 years,Full-time,1100000,1800000,SQL;MySQL;Oracle;Database,B.Tech,Banking,16-09-2026,No,Manage enterprise databases.
+JOB0458,QA Engineer,Cognizant,Pune,1-3 years,Full-time,500000,820000,Selenium;Testing;Java;Automation,B.E.,IT Services,16-09-2026,Hybrid,Perform quality assurance testing.
+JOB0459,AI Engineer,Google,Bangalore,3-5 years,Full-time,1150000,1950000,Python;AI;Deep Learning;NLP,M.Tech,IT Services,16-09-2026,Yes,Develop AI applications.
+JOB0460,Marketing Analyst,Flipkart,Mumbai,1-3 years,Full-time,550000,900000,Excel;Google Analytics;SQL;Marketing,MBA,E-Commerce,16-09-2026,Hybrid,Analyze marketing data.
+JOB0461,Data Analyst,TCS,Mumbai,1-3 years,Full-time,500000,820000,Python;SQL;Excel;Power BI,B.Tech,IT Services,16-09-2026,Yes,Create business intelligence reports.
+JOB0462,Software Engineer,Accenture,Pune,3-5 years,Full-time,750000,1200000,Java;Python;Git;APIs,B.E.,Consulting,16-09-2026,Hybrid,Develop client software solutions.
+JOB0463,Python Developer,Infosys,Bangalore,3-5 years,Full-time,700000,1150000,Python;Django;Flask;SQL,MCA,IT Services,16-09-2026,No,Develop scalable Python services.
+JOB0464,Data Scientist,IBM,Hyderabad,5-8 years,Full-time,1300000,2100000,Python;Machine Learning;SQL;Pandas,M.Tech,Healthcare,16-09-2026,Yes,Develop data science solutions.
+JOB0465,Java Developer,Cognizant,Chennai,1-3 years,Full-time,500000,820000,Java;Spring Boot;SQL;REST API,B.Tech,IT Services,16-09-2026,Hybrid,Develop Java applications.
+JOB0466,Frontend Developer,Microsoft,Bangalore,3-5 years,Full-time,800000,1300000,HTML;CSS;JavaScript;React,B.E.,IT Services,16-09-2026,Yes,Build frontend applications.
+JOB0467,Backend Developer,Amazon,Hyderabad,3-5 years,Full-time,850000,1400000,Node.js;Python;APIs;SQL,B.Tech,E-Commerce,16-09-2026,Hybrid,Develop backend systems.
+JOB0468,Full Stack Developer,Persistent Systems,Pune,1-3 years,Full-time,650000,1050000,React;Node.js;MongoDB;JavaScript,B.Tech,IT Services,16-09-2026,Yes,Build full-stack solutions.
+JOB0469,Machine Learning Engineer,Google,Bangalore,5-8 years,Full-time,1500000,2400000,Python;TensorFlow;ML;Docker,M.Tech,IT Services,16-09-2026,Hybrid,Deploy machine learning models.
+JOB0470,Cloud Engineer,Microsoft,Hyderabad,3-5 years,Full-time,950000,1600000,AWS;Azure;Docker;Kubernetes,B.Tech,IT Services,16-09-2026,Yes,Manage cloud platforms.
+JOB0471,DevOps Engineer,Amazon,Bangalore,3-5 years,Full-time,1000000,1650000,Linux;Docker;Kubernetes;Jenkins,B.Tech,E-Commerce,16-09-2026,Hybrid,Manage CI/CD pipelines.
+JOB0472,Business Analyst,Capgemini,Mumbai,1-3 years,Full-time,550000,900000,Excel;SQL;Power BI;Business Analysis,MBA,Consulting,16-09-2026,No,Analyze business operations.
+JOB0473,Product Manager,Amazon,Bangalore,5-8 years,Full-time,1500000,2350000,Product Strategy;Agile;Analytics,MBA,E-Commerce,16-09-2026,Yes,Lead product development.
+JOB0474,Project Manager,TCS,Pune,5-8 years,Full-time,1300000,2000000,Agile;Scrum;Jira;Leadership,MBA,IT Services,16-09-2026,Hybrid,Manage project delivery.
+JOB0475,UI UX Designer,Microsoft,Hyderabad,3-5 years,Full-time,750000,1200000,Figma;UI Design;UX Research,B.Des,IT Services,16-09-2026,Yes,Design user experiences.
+JOB0476,Cyber Security Analyst,IBM,Bangalore,1-3 years,Full-time,600000,950000,Cybersecurity;SIEM;Networking;Linux,B.Tech,IT Services,16-09-2026,Hybrid,Monitor security threats.
+JOB0477,Database Administrator,Oracle,Chennai,3-5 years,Full-time,800000,1300000,SQL;MySQL;Oracle;Database,B.Tech,Banking,16-09-2026,No,Maintain databases.
+JOB0478,QA Engineer,TCS,Pune,3-5 years,Full-time,650000,1050000,Selenium;Testing;Java;Automation,B.E.,IT Services,16-09-2026,Hybrid,Automate software testing.
+JOB0479,AI Engineer,Google,Bangalore,5-8 years,Full-time,1550000,2450000,Python;AI;Deep Learning;NLP,M.Tech,IT Services,16-09-2026,Yes,Build advanced AI systems.
+JOB0480,Marketing Analyst,Flipkart,Mumbai,1-3 years,Full-time,550000,900000,Excel;Google Analytics;SQL;Marketing,MBA,E-Commerce,16-09-2026,Hybrid,Analyze marketing campaigns.
+JOB0481,Data Analyst,Infosys,Pune,1-3 years,Full-time,500000,820000,Python;SQL;Excel;Power BI,B.Sc,IT Services,16-09-2026,Yes,Analyze operational data.
+JOB0482,Software Engineer,Wipro,Bangalore,3-5 years,Full-time,750000,1200000,Java;Python;Git;APIs,B.Tech,IT Services,16-09-2026,Hybrid,Develop enterprise software.
+JOB0483,Python Developer,TCS,Hyderabad,1-3 years,Full-time,520000,850000,Python;Django;Flask;SQL,MCA,FinTech,16-09-2026,No,Build Python services.
+JOB0484,Data Scientist,Accenture,Mumbai,3-5 years,Full-time,950000,1550000,Python;Machine Learning;SQL;Pandas,M.Tech,Consulting,16-09-2026,Yes,Develop predictive models.
+JOB0485,Java Developer,HCLTech,Noida,5-8 years,Full-time,1050000,1750000,Java;Spring Boot;SQL;REST API,B.Tech,IT Services,16-09-2026,Hybrid,Lead Java applications.
+JOB0486,Frontend Developer,Flipkart,Bangalore,1-3 years,Full-time,550000,900000,HTML;CSS;JavaScript;React,B.E.,E-Commerce,16-09-2026,Yes,Develop responsive websites.
+JOB0487,Backend Developer,IBM,Pune,3-5 years,Full-time,800000,1300000,Node.js;Python;APIs;SQL,B.Tech,IT Services,16-09-2026,Hybrid,Develop backend APIs.
+JOB0488,Full Stack Developer,Amazon,Hyderabad,5-8 years,Full-time,1300000,2100000,React;Node.js;MongoDB;JavaScript,B.Tech,E-Commerce,16-09-2026,Yes,Lead full-stack development.
+JOB0489,Machine Learning Engineer,Microsoft,Bangalore,3-5 years,Full-time,1100000,1850000,Python;TensorFlow;ML;Docker,M.Tech,IT Services,16-09-2026,Hybrid,Build ML systems.
+JOB0490,Cloud Engineer,Oracle,Pune,3-5 years,Full-time,950000,1550000,AWS;Azure;Docker;Kubernetes,B.Tech,IT Services,16-09-2026,Yes,Manage cloud infrastructure.
+JOB0491,DevOps Engineer,Google,Bangalore,5-8 years,Full-time,1500000,2400000,Linux;Docker;Kubernetes;Jenkins,B.Tech,IT Services,16-09-2026,Hybrid,Automate infrastructure.
+JOB0492,Business Analyst,Deloitte,Mumbai,1-3 years,Full-time,550000,900000,Excel;SQL;Power BI;Business Analysis,MBA,Consulting,16-09-2026,No,Analyze business requirements.
+JOB0493,Product Manager,Microsoft,Hyderabad,5-8 years,Full-time,1450000,2300000,Product Strategy;Agile;Analytics,MBA,IT Services,16-09-2026,Yes,Manage product roadmap.
+JOB0494,Project Manager,TCS,Pune,5-8 years,Full-time,1300000,2000000,Agile;Scrum;Jira;Leadership,MBA,IT Services,16-09-2026,Hybrid,Lead project teams.
+JOB0495,UI UX Designer,Google,Bangalore,1-3 years,Full-time,550000,900000,Figma;UI Design;UX Research,B.Des,IT Services,16-09-2026,Yes,Design user interfaces.
+JOB0496,Cyber Security Analyst,IBM,Mumbai,3-5 years,Full-time,750000,1200000,Cybersecurity;SIEM;Networking;Linux,B.Tech,Banking,16-09-2026,Hybrid,Investigate security incidents.
+JOB0497,Database Administrator,Oracle,Chennai,5-8 years,Full-time,1100000,1800000,SQL;MySQL;Oracle;Database,B.Tech,Banking,16-09-2026,No,Manage enterprise databases.
+JOB0498,QA Engineer,Cognizant,Pune,1-3 years,Full-time,500000,820000,Selenium;Testing;Java;Automation,B.E.,IT Services,16-09-2026,Hybrid,Perform quality assurance testing.
+JOB0499,AI Engineer,Google,Bangalore,3-5 years,Full-time,1150000,1950000,Python;AI;Deep Learning;NLP,M.Tech,IT Services,16-09-2026,Yes,Develop AI applications.
+JOB0500,Marketing Analyst,Flipkart,Mumbai,1-3 years,Full-time,550000,900000,Excel;Google Analytics;SQL;Marketing,MBA,E-Commerce,16-09-2026,Hybrid,Analyze customer and marketing data.
